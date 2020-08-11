@@ -1,1 +1,4 @@
 # whatueat
+```
+python menu.py
+```
